@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RandomTest()
+comment1.params=randomMax
+comment1.target=int\ giveRandomValue(int)
+comment2.params=amountOfRandomsToAdd
+comment2.target=void\ addRandomToList(int)
+comment3.params=
+comment3.target=void\ printList()
+comment4.params=
+comment4.target=void\ giveEven()
+comment5.params=
+comment5.target=void\ giveOdd()
+numComments=6

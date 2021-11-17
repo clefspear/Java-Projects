@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=myX\ myY\ myZ
+comment0.target=NumberScrambler(int,\ int,\ int)
+comment1.params=
+comment1.target=void\ Switch()
+comment2.params=
+comment2.target=void\ ChangeNumbers()
+numComments=3

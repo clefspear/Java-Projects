@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=PrimeNumber
+comment0.target=CheckPrime(int)
+comment1.params=newnumber
+comment1.target=void\ NewNumber(int)
+comment2.params=
+comment2.target=void\ CheckifPrime()
+numComments=3

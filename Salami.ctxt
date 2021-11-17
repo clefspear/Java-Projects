@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=food1\ food2
+comment0.target=Salami(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=void\ PrintFood()
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Registrar()
+comment1.params=student
+comment1.target=void\ AddStudent(CounselorsPC)
+comment2.params=idnumber
+comment2.target=void\ SearchID(int)
+comment3.params=
+comment3.target=void\ PrintAll()
+numComments=4

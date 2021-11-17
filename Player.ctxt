@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=Name\ YearsonTeam\ JerseyNumber
+comment0.target=Player(java.lang.String,\ int,\ int)
+comment1.params=
+comment1.target=java.lang.String\ Name()
+comment2.params=
+comment2.target=int\ YearsonTeam()
+comment3.params=
+comment3.target=int\ JerseyNumber()
+comment4.params=
+comment4.target=java.lang.String\ AllInfo()
+numComments=5

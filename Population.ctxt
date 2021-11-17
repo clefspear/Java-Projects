@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=populationx\ populationy\ State
+comment0.target=void\ Population(int,\ int,\ java.lang.String)
+comment1.params=
+comment1.target=double\ PrintAverage()
+numComments=2

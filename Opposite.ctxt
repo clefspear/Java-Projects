@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=Xvalue\ Yvalue
+comment0.target=Opposite(int,\ int)
+comment0.text=\n\ Constructor\ for\ x\ and\ y\ variables\n
+comment1.params=
+comment1.target=void\ Opposite()
+comment2.params=
+comment2.target=void\ Printinfo()
+numComments=3

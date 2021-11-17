@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=startfactor
+comment0.target=PrimeFactorization(int)
+comment1.params=newnumber
+comment1.target=void\ NewNumber(int)
+comment2.params=
+comment2.target=void\ factor()
+numComments=3
